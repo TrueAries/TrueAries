@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Anastasios Halverson</h1>
-<h3 align="center">Cloud Engineer | DevSecOps | AI-Driven Infrastructure</h3>
+<h3 align="center">Cloud Engineer | Cloud Security | DevSecOps | AI-Driven Infrastructure</h3>
 
 ---
 
