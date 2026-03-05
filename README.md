@@ -141,6 +141,8 @@ Technologies
 - LangChain
 - OpenAI APIs
 - Vector databases
+- MCP servers
+- Claude Code
 
 Applications
 
@@ -148,6 +150,14 @@ Applications
 - automated incident triage
 - threat intelligence enrichment
 - anomaly detection systems
+
+Claude Code Courses
+
+- Model Context Protocol: Advanced Topics
+- Claude with AWS Bedrock
+- Claude with Google Cloud's Vertex AI
+- Claude and GitHub Actions
+- Introduction to agent skills
 
 ---
 
@@ -261,8 +271,9 @@ Key architectural patterns I work with:
 # 📜 Certifications
 
 - AWS Solutions Architect – Associate
+- AWS Security - Specialty
 - CompTIA Security+
-- NVIDIA AI Operations Professional
+- Google IT Automation with Python Professional
 
 ---
 
