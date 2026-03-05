@@ -227,6 +227,52 @@ Tools
 
 ---
 
+# 🏢 Physical Access Control & Infrastructure Security
+
+Security begins at the physical layer. Protecting infrastructure requires controlling access to the environments where systems, networks, and data reside.
+
+I study and implement principles of **physical security engineering** used in enterprise environments, data centers, and secure facilities.
+
+Core Areas
+
+- Identity-based physical access control
+- Secure facility design
+- Surveillance and monitoring systems
+- Access auditing and logging
+- Insider threat prevention
+- Physical security integration with cybersecurity systems
+
+Technologies & Systems
+
+- Badge / RFID access control systems
+- Biometric authentication systems
+- Smart locks and electronic access points
+- CCTV and surveillance monitoring
+- Alarm and intrusion detection systems
+- Secure server room and data center access controls
+
+Security Concepts
+
+- Least-privilege physical access
+- Multi-factor physical authentication
+- Tamper detection
+- Security zoning and segmentation
+- Chain of custody
+- Environmental monitoring
+
+Integration with Cybersecurity
+
+Physical security events often feed into **SIEM and security monitoring platforms**, allowing organizations to correlate physical access events with system activity.
+
+Examples
+
+- Correlating badge access logs with system login attempts
+- Monitoring unauthorized server rack access
+- Alerting on after-hours facility entry
+- Integrating physical access alerts into SOC workflows
+
+---
+
 # 💻 Programming & Automation
 
 Programming is essential for automation and scalable infrastructure.
@@ -301,9 +347,16 @@ Mobile application capable of detecting aircraft using sensor fusion:
 
 React Native  
 TypeScript  
-Device Sensors  
-OpenSky API  
+Mobile Device Sensors  
+OpenSky API 
+
 AWS Backend
+- Dynamo DB
+- CloudFront CDN
+- Lambda
+- Rekognition
+- Comprehend
+- s3
 
 ---
 
